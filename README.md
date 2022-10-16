@@ -5,7 +5,7 @@ Basically, we created this website for you. You don't need to take any subscript
 ### How will you contribute?
 Before you contribute, you need to know there is more than one step.
 1. **First Step** 
-    - You need to create a folder on `HTML` folder.
+    - You need to create a folder on the `HTML` folder.
      - Then create a folder with `html_yourname`.
      - Create an `index.html` file.
 2. **Second Step**
@@ -13,11 +13,11 @@ Before you contribute, you need to know there is more than one step.
     - Now it's your time. To make it.
   
 **Okay, it looks good. Now the question is how to add a video tutorial?** <br>
-Well, this is really very good question. For that, you need to copy this code:
+Well, this is a really very good question. For that, you need to copy this code:
 
 ```html
 <div class="video__plyr">
-    <video id="player" playsinline controls crossorigin data-poster="/path/to/poster.jpg">
+    <video id="player" playsinline controls cross-origin data-poster="/path/to/poster.jpg">
     <source src="./cdn/video/Codes - 360.mp4" type="video/mp4" size="360" />
     <source src="./cdn/video/Codes - 540.mp4" type="video/mp4" size="576" />
     <source src="./cdn/video/Codes - 720.mp4" type="video/mp4" size="720" />
